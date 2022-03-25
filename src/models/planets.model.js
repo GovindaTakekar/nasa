@@ -45,4 +45,3 @@ function loadPlanetsData(){
       planets : isHabbitablePlanets,
   }
 
-
